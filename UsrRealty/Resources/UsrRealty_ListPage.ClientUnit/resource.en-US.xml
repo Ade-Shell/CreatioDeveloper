@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty list page" />
+			<Item Name="LocalizableStrings.AddButton.Value" Value="New" />
+			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
+		</Items>
+	</Group>
+</Resources>
